@@ -1,0 +1,2 @@
+# emojiCutterInfo
+None.
